@@ -1,9 +1,9 @@
-# Fintech_Module7
+# Fintech-Project1- Group5
 
 
 ![ETF_Returns_Analyzer.jpg](https://github.com/nielsdehaan1977/Fintech_Module7/blob/main/Images/ETF_Returns_Analyzer.jpg)
 
-## ETF Analysis, a financial database and web application that uses SQL, Python, and the Voilà library to analyze the performance of an ETF and its indivual components.
+## Personal Energy Usage Analysis with predicition capacity based on historical data 
 
 ## etf_analyzer.ipynb
 ---
