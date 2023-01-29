@@ -1,7 +1,7 @@
 # Fintech-Project1- Group5
 
 
-![ETF_Returns_Analyzer.jpg](https://github.com/vincentsgarzi/Group5Project1/tree/main/Niels/Images/ETF_Returns_Analyzer.jpg)
+![ETF_Returns_Analyzer.jpg](https://github.com/vincentsgarzi/Group5Project1/tree/main/Images/ETF_Returns_Analyzer.jpg)
 
 ## Personal Energy Usage Analysis with capacity to predict future cost of energy. Tool utilizes analysis of a household's energy usage by regressing historical energy usage data and temperature. Local Temperature data is downloaded by an API connection with AERIS Weather. Tool can forecast what will happen to a household's energy usage when temperatures change per season going forward. Tool can also predict with a 95% certainty, what the household's future cost of energy will be. Tool calculates the correlation between average kWh price of energy in NY and both Natural Gas and Crude Oil prices. The tool then continues by automatically selecting the most correlated product to run a monte carlo simulation based on a seasonal selection of historical data to adjust for seasonal influence. Based on the predicted usage per season and the monte carlo simulations per season of the most correlated product the tool can predict the future cost of energy. 
 
@@ -87,7 +87,7 @@ Jupyter Lab can be started by:
 1. Activate your developer environment in Terminal or Git Bash (already done in step 1)
 2. Type "jupyter lab --ContentsManager.allow_hidden=True" press enter (This will open Jupyter Lab in a mode where you can also see hidden files)
 
-![JupyterLab](https://github.com/nielsdehaan1977/Fintech_Module7/blob/main/Images/JupyterLab.PNG)
+![JupyterLab](https://github.com/vincentsgarzi/Group5Project1/tree/main/Images/JupyterLab.PNG)
 
 
 ## Usage
@@ -108,7 +108,7 @@ The tool will go through the following steps:
 ### Instructions on how to deploy the notebook as a web application using VOILA library
 * Last are instructions on how to deploy the notebook as a web application (Please also see below example). 
 
-![Voila_Screenshot_and_Terminal.jpg](https://github.com/nielsdehaan1977/Fintech_Module7/blob/main/Images/Voila_Screenshot_and_Terminal.jpg)
+![Voila_Screenshot_and_Terminal.jpg](https://github.com/vincentsgarzi/Group5Project1/tree/main/Images/Voila_Screenshot_and_Terminal.jpg)
 
 ## Contributor(s)
 
