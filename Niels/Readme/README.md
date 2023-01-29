@@ -1,7 +1,7 @@
 # Fintech-Project1- Group5
 
 
-![ETF_Returns_Analyzer.jpg](https://github.com/vincentsgarzi/Group5Project1/tree/main/Images/ETF_Returns_Analyzer.jpg)
+![Energy_usage_pic.jpg](https://github.com/vincentsgarzi/Group5Project1/blob/main/Images/Energy_usage_pic.jpg)
 
 ## Personal Energy Usage Analysis with capacity to predict future cost of energy. Tool utilizes analysis of a household's energy usage by regressing historical energy usage data and temperature. Local Temperature data is downloaded by an API connection with AERIS Weather. Tool can forecast what will happen to a household's energy usage when temperatures change per season going forward. Tool can also predict with a 95% certainty, what the household's future cost of energy will be. Tool calculates the correlation between average kWh price of energy in NY and both Natural Gas and Crude Oil prices. The tool then continues by automatically selecting the most correlated product to run a monte carlo simulation based on a seasonal selection of historical data to adjust for seasonal influence. Based on the predicted usage per season and the monte carlo simulations per season of the most correlated product the tool can predict the future cost of energy. 
 
