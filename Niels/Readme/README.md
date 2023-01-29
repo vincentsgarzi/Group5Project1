@@ -87,7 +87,7 @@ Jupyter Lab can be started by:
 1. Activate your developer environment in Terminal or Git Bash (already done in step 1)
 2. Type "jupyter lab --ContentsManager.allow_hidden=True" press enter (This will open Jupyter Lab in a mode where you can also see hidden files)
 
-![JupyterLab](https://github.com/vincentsgarzi/Group5Project1/tree/main/Images/JupyterLab.PNG)
+![JupyterLab](https://github.com/vincentsgarzi/Group5Project1/blob/main/Images/JupyterLab.PNG)
 
 
 ## Usage
@@ -108,7 +108,7 @@ The tool will go through the following steps:
 ### Instructions on how to deploy the notebook as a web application using VOILA library
 * Last are instructions on how to deploy the notebook as a web application (Please also see below example). 
 
-![Voila_Screenshot_and_Terminal.jpg](https://github.com/vincentsgarzi/Group5Project1/tree/main/Images/Voila_Screenshot_and_Terminal.jpg)
+![Voila_Screenshot_and_Terminal.jpg](https://github.com/vincentsgarzi/Group5Project1/blob/main/Images/Voila_Screenshot_and_Terminal.jpg)
 
 ## Contributor(s)
 
