@@ -110,7 +110,7 @@ The tool will go through the following steps:
 ### Instructions on how to deploy the notebook as a web application using VOILA library
 * Last are instructions on how to deploy the notebook as a web application (Please also see below example). 
 
-![Voila_Screenshot_and_Terminal.jpg](https://github.com/vincentsgarzi/Group5Project1/blob/main/Images/Voila_Screenshot_and_Terminal.jpg)
+![Voila_presentation_instructions.jpg](https://github.com/vincentsgarzi/Group5Project1/blob/main/Images/Voila_presentation_instructions.jpg)
 
 ## Contributor(s)
 
