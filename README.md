@@ -115,10 +115,10 @@ The tool will go through the following steps:
 ## Contributor(s)
 
 This project was created by Columbia Fintech Group 5:
-Andre Johnson
-Marc Pocorni
-Vincent Sgarzi
-Niels de Haan
+* Andre Johnson
+* Marc Pocorni
+* Vincent Sgarzi
+* Niels de Haan
 
 ---
 
