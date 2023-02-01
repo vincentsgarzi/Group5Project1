@@ -58,6 +58,8 @@ This project leverages python 3.9 and Jupyter Lab with the following packages:
 * [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) - LinearRegression fits a linear model with coefficients w = (w1, …, wp) to minimize the residual sum of squares between the observed targets in the dataset, and the targets predicted by the linear approximation.
 
 * [voila](https://voila.readthedocs.io/en/stable/index.html) - Voilà allows you to convert a Jupyter Notebook into an interactive dashboard that allows you to share your work with others.
+
+* [Aeris_Weather_API](https://github.com/aerisweather/python-tools) - the AerisWeather API give users the ability to download weather data and load into a pandas DataFrame for data science purposes.
 ---
 
 ## Installation Guide
