@@ -94,7 +94,7 @@ Jupyter Lab can be started by:
 
 ## Usage
 
-To use the Personal Energy Usage Analysis jupyter lab notebook, simply clone the full repository and open the **Personal_Energy_Usage_Final_2022_per_hr.ipynb** file in Jupyter Lab. 
+To use the Personal Energy Usage Analysis jupyter lab notebook, simply clone the full repository and open the **Final_Notebook_incl_hypo_calcs.ipynb** file in Jupyter Lab. 
 
 The tool will go through the following steps:
 
